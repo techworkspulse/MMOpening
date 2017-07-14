@@ -1,0 +1,9 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^5.2",
+        "league/oauth2-google": "^2.0",
+        "knplabs/knp-snappy": "^0.4.3",
+        "h4cc/wkhtmltopdf-amd64": "^0.12.3",
+        "facebook/graph-sdk": "^5.5"
+    }
+}
